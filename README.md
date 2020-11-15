@@ -3,7 +3,9 @@
 Tenhos 17 anos, me distanciei da programação por um tempo, mas tento voltar o máximo que der com projetos novos!
 
 #### Redes Sociais:
-> **Discord**: Deivinni Mayer#0209<br>**Twitter**: <a href="https://twitter.com/_deivinni">@_deivinni</a>
+> **Discord**: Deivinni Mayer#0209</br>
+> **Twitter**: <a href="https://twitter.com/_deivinni">@_deivinni</a></br>
+> **Email**: <a href="mailto:deivinnimds3656@gmail.com">deivinnimds3656@gmail.com</a></br>
 
 <a href="https://github.com/deivinni">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deivinni&show_icons=true&include_all_commits=true&hide=issues&hide_border=true&theme=buefy&locale=pt-br" />
