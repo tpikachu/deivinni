@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2 align="center">Deivinni Mayer da Silva</h2>
 
-<!--
-**deivinni/deivinni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenhos 17 anos, me distanciei da programação por um tempo, mas tento voltar o máximo que der com projetos novos!
 
-Here are some ideas to get you started:
+#### Redes Sociais:
+- Discord: Deivinni Mayer#0209
+- Twitter: <a href="https://twitter.com/_deivinni">@_deivinni</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/deivinni">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deivinni&show_icons=true&include_all_commits=true&hide=issues&hide_border=true&theme=buefy&locale=pt-br" />
+</a>
+<a href="https://github.com/deivinni">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivinni&locale=pt-br&hide_border=true&hide_title=true&theme=vue" />
+</a>
