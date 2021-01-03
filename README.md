@@ -3,8 +3,8 @@
 Tenhos 17 anos, me distanciei da programação por um tempo, mas tento voltar o máximo que der com projetos novos!
 
 #### Redes Sociais:
-> **Discord**: Deivinni Mayer#0209</br>
-> **Twitter**: <a href="https://twitter.com/_deivinni">@_deivinni</a></br>
+> **Discord**: deivinni#7799</br>
+> **Twitter**: <a href="https://twitter.com/deivinni_">@deivinni_</a></br>
 > **Email**: <a href="mailto:deivinnimds3656@gmail.com">deivinnimds3656@gmail.com</a></br>
 
 <a href="https://github.com/deivinni">
